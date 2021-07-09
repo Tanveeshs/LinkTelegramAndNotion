@@ -1,0 +1,21 @@
+{
+  "name": "workduckassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^0.2.1",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "node-telegram-bot-api": "^0.53.0",
+    "telegram-bot-api": "^2.0.1",
+    "telegram-mtproto": "^1.0.5"
+  }
+}
